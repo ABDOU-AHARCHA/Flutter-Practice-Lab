@@ -1,8 +1,3 @@
-*.cpp linguist-vendored
-*.h linguist-vendored
-*.cmake linguist-vendored
-CMakeLists.txt linguist-vendored
-windows/* linguist-vendored
-linux/* linguist-vendored
-macos/* linguist-vendored
-build/* linguist-vendored
+* linguist-vendored
+*.dart linguist-vendored=false
+*.dart linguist-detectable=true
