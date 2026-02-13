@@ -1,5 +1,7 @@
 *.cpp linguist-vendored
 *.h linguist-vendored
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
 windows/* linguist-vendored
 linux/* linguist-vendored
 macos/* linguist-vendored
